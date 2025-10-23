@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Felipe Izidio</h1>
 
-<!--
-**fidsgg/fidsgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas</p>
+<p>👨‍💻 Desenvolvedor back-end em processo</p>
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c)](https://skillicons.dev)
+
+#
+
+<div>
+  <a href="https://instagram.com/fiids_gg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipe.izidiio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-izidio-56a453216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
