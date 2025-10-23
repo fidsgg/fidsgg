@@ -1,5 +1,5 @@
 <h1>👨‍💻 Felipe Izidio</h1>
-<p>Tenho bastante interesse por tecnologia e desenvolvimento back-end. Atualmente, estou me aprofundando em Java, Spring Framework e MySQL, aprendendo a desenvolver APIs, sistemas de gerenciamento e projetos próprios, que me permitem testar diferentes estruturas e aplicar boas práticas de programação. Gosto de resolver problemas de lógica, otimizar código e explorar ferramentas que tornam o desenvolvimento mais ágil e organizado.</p>
+
 <p>👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas</p>
 <p>🚀 Desenvolvedor back-end em processo</p>
 
