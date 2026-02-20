@@ -6,7 +6,7 @@
 <p>Atualmente desenvolvendo projetos com Spring Boot.</p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
 
 #
 
