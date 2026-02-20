@@ -1,7 +1,7 @@
 <h1>👨‍💻 Felipe Izidio</h1>
 
 <p>👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas</p>
-<p>🚀 Desenvolvedor back-end em processo</p>
+<p>🚀 Desenvolvedor java back-end </p>
 
 #
 
