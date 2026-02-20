@@ -1,8 +1,10 @@
 <h1>👨‍💻 Felipe Izidio</h1>
 
 <p>👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas</p>
-<p>🚀 Desenvolvedor java back-end </p>
+<p>📌 Objetivo </p>
+<p>Buscando primeira oportunidade como Desenvolvedor Java Júnior.</p>
 
+<p>Atualmente desenvolvendo projetos com Spring Boot.</p>
 #
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c)](https://skillicons.dev)
