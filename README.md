@@ -1,7 +1,6 @@
 <h1>👨‍💻 Felipe Izidio</h1>
 
 <p>Desenvolvedor Java com foco em Back-end</p>
-<p>Objetivo: </p>
 <p>Buscando primeira oportunidade como Desenvolvedor Java Júnior.</p>
 <p>Atualmente desenvolvendo projetos com Spring Boot.</p>
 
